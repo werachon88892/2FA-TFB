@@ -1,0 +1,25 @@
+npm i express speakeasy uuid node-json-db
+npm i -D nodemon
+
+npm start
+
+http://localhost:9000/api
+
+POST
+http://localhost:9000/api/register
+
+JSON
+http://localhost:9000/api/verify
+{
+    "userId":"462abd2a-6798-4066-a6aa-ef17517561b1",
+    "token": "294739"
+}
+
+
+
+JSON
+http://localhost:9000/api/validate
+{
+    "userId":"3f6b26ca-24c9-4896-9725-399c82dd4ad2",
+    "token":"992064"
+}

@@ -1,0 +1,12 @@
+API
+https://blog.logrocket.com/implementing-two-factor-authentication-using-speakeasy/
+
+android
+https://developer.android.com/training/sync-adapters/creating-authenticator#java
+
+
+price
+https://cloud.google.com/identity-platform/pricing
+
+
+https://www.youtube.com/watch?v=KQya9i6czhM&ab_channel=TraversyMedia
